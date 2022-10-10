@@ -1,12 +1,14 @@
 ## Experiment: Using GPT-3 for development tasks
 
-A collection of example prompts that can be used to explore GPT-3's capabilities. Although results are sometimes mixed, and some of these tasks could probably be performed more automatically by simpler methods, there are still some interesting use cases. 
+A collection of example prompts that can be used to explore GPT-3's capabilities. Although results are sometimes mixed, and some of these tasks could probably be performed automatically by simpler methods, there are still some interesting use cases. 
 
 Use these examples as starting points for your own experiments!
 
-How could we use GPT-3 to help us with our development tooling? OpenAI has a [simple API](https://beta.openai.com/docs/api-reference/introduction) that allows us to build our own tools.
+How could we use GPT-3 to help us with our development tooling? OpenAI has a [simple API](https://beta.openai.com/docs/api-reference/introduction) that could allow us to build our own tools.
 
 These examples be used in the OpenAi playground here: https://beta.openai.com/playground (Free, although signup required).
+
+Just paste the code blocks intp the playground and press "Submit" to see the results. When there are multiple code blocks, you can run them in sequence by pressing "Submit" after each one.
 
 - [Explain some Python code](explain-code-1.md)
 - [Explain some Javascript code](explain-code-2.md)
